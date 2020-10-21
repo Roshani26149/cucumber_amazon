@@ -1,0 +1,41 @@
+2020-Oct-21 14:09:05 PM [main] INFO  Core.WebDriverFactory - chrome browser invoked
+2020-Oct-21 14:09:07 PM [main] INFO  Core.WebDriverFactory - driver maximized and inplicit time set for 30 second
+2020-Oct-21 14:09:07 PM [main] INFO  StepDefs11.StepDefinations - Browser invoked.
+2020-Oct-21 14:09:19 PM [main] INFO  Core.WebDriverFactory - driver navigate to Url-https://www.amazon.in/
+2020-Oct-21 14:09:20 PM [main] INFO  PageObjects.CommonPageObjects - title is matched-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-Oct-21 14:09:21 PM [main] INFO  PageObjects.CommonPageObjects - search product enterd Laptop
+2020-Oct-21 14:09:27 PM [main] INFO  PageObjects.CommonPageObjects - enter on search product 
+2020-Oct-21 14:09:29 PM [main] INFO  Core.WebDriverFactory - driver closed
+2020-Oct-21 14:09:33 PM [main] INFO  Core.WebDriverFactory - chrome browser invoked
+2020-Oct-21 14:09:36 PM [main] INFO  Core.WebDriverFactory - driver maximized and inplicit time set for 30 second
+2020-Oct-21 14:09:36 PM [main] INFO  StepDefs11.StepDefinations - Browser invoked.
+2020-Oct-21 14:09:43 PM [main] INFO  Core.WebDriverFactory - driver navigate to Url-https://www.amazon.in/
+2020-Oct-21 14:09:43 PM [main] INFO  PageObjects.CommonPageObjects - title is matched-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-Oct-21 14:09:44 PM [main] INFO  PageObjects.CommonPageObjects - search product enterd earphones
+2020-Oct-21 14:09:49 PM [main] INFO  PageObjects.CommonPageObjects - enter on search product 
+2020-Oct-21 14:10:19 PM [main] INFO  PageObjects.SearchPageObjects - Number of products searched: 0
+2020-Oct-21 14:10:21 PM [main] INFO  Core.WebDriverFactory - driver closed
+2020-Oct-21 14:10:26 PM [main] INFO  Core.WebDriverFactory - chrome browser invoked
+2020-Oct-21 14:10:28 PM [main] INFO  Core.WebDriverFactory - driver maximized and inplicit time set for 30 second
+2020-Oct-21 14:10:28 PM [main] INFO  StepDefs11.StepDefinations - Browser invoked.
+2020-Oct-21 14:10:36 PM [main] INFO  Core.WebDriverFactory - driver navigate to Url-https://www.amazon.in/
+2020-Oct-21 14:10:36 PM [main] INFO  PageObjects.CommonPageObjects - title is matched-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-Oct-21 14:10:36 PM [main] INFO  PageObjects.CommonPageObjects - search product enterd laptops
+2020-Oct-21 14:10:43 PM [main] INFO  PageObjects.CommonPageObjects - enter on search product 
+2020-Oct-21 14:10:44 PM [main] INFO  Core.WebDriverFactory - driver closed
+2020-Oct-21 14:10:48 PM [main] INFO  Core.WebDriverFactory - chrome browser invoked
+2020-Oct-21 14:10:50 PM [main] INFO  Core.WebDriverFactory - driver maximized and inplicit time set for 30 second
+2020-Oct-21 14:10:50 PM [main] INFO  StepDefs11.StepDefinations - Browser invoked.
+2020-Oct-21 14:10:55 PM [main] INFO  Core.WebDriverFactory - driver navigate to Url-https://www.amazon.in/
+2020-Oct-21 14:10:56 PM [main] INFO  PageObjects.CommonPageObjects - title is matched-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-Oct-21 14:10:56 PM [main] INFO  PageObjects.CommonPageObjects - search product enterd Earphones
+2020-Oct-21 14:11:02 PM [main] INFO  PageObjects.CommonPageObjects - enter on search product 
+2020-Oct-21 14:11:04 PM [main] INFO  Core.WebDriverFactory - driver closed
+2020-Oct-21 14:11:07 PM [main] INFO  Core.WebDriverFactory - chrome browser invoked
+2020-Oct-21 14:11:09 PM [main] INFO  Core.WebDriverFactory - driver maximized and inplicit time set for 30 second
+2020-Oct-21 14:11:09 PM [main] INFO  StepDefs11.StepDefinations - Browser invoked.
+2020-Oct-21 14:11:15 PM [main] INFO  Core.WebDriverFactory - driver navigate to Url-https://www.amazon.in/
+2020-Oct-21 14:11:15 PM [main] INFO  PageObjects.CommonPageObjects - title is matched-Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2020-Oct-21 14:11:16 PM [main] INFO  PageObjects.CommonPageObjects - search product enterd Computer
+2020-Oct-21 14:11:20 PM [main] INFO  PageObjects.CommonPageObjects - enter on search product 
+2020-Oct-21 14:11:21 PM [main] INFO  Core.WebDriverFactory - driver closed
