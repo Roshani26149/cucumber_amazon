@@ -5,6 +5,8 @@
 	<groupId>com.qa.amazon</groupId>
 	<artifactId>com.qa.amazon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
+	<!----------Code changes in master branch----------------->
 
 	<properties>
 		<cucumber.version>6.6.1</cucumber.version>
